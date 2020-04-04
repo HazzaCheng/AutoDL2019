@@ -16,10 +16,6 @@ python run_local_test.py -dataset_dir=./AutoDL_sample_data/DEMO -code_dir=./Auto
 
 You can change the argument `dataset_dir` to other datasets, and change the argument `code_dir` to the directory containing this code (`model.py`).
 
-## Dataset
-
-You can get the dataset format form [here](https://www.4paradigm.com/competition/autospeech2019).
-
 ## Contact Us
 
 HazzaCheng: [hazzacheng@gmail.com](mailto:hazzacheng@gmail.com)
